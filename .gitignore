@@ -1,0 +1,26 @@
+#projemizde takip edilmeyecek dosyaları belirtebiliriz
+# IDE - VSCode
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+
+# img (bunlar açıklama satırı)
+
+*.img
+*.png
+
+img/
+
+
+#videos
+*.mp4
+
+
+
+#packages
+
+#log
+*.log
+password.txt
